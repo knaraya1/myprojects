@@ -1,0 +1,35 @@
+The Great Gatsby
+F. Scott Fitzgerald
+978-0743273565
+218
+1925
+Pride and Prejudice
+Jane Austen
+978-0141439518
+480
+1813
+Mastering the Art of French Cooking
+Julia Child, Louisette Bertholle, and Simone Beck
+978-0375413407
+684
+1961
+Head First Java
+Kathy Sierra and Bert Bates
+978-0596009205
+720
+2005
+The Structure and Interpretation of Computer Programs
+Harold Abelson and Gerald Jay Sussman
+978-0262510875
+657
+1996
+A Brief History of Time
+Stephen Hawking
+978-0553380163
+212
+1988
+The Elements of Style
+William Strunk Jr. and E. B. White
+978-0205309023
+105
+1918
